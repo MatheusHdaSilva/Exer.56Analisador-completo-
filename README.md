@@ -1,2 +1,3 @@
 # Analisador completo 
- Coletor de dados, capaz de responder média entre as idades, a idade mais avançada  e  quantades de mulheres sitadas a baixo de 20 anos
+ Coletor de dados, capaz de responder média entre as idades, o nome do homem mais velho
+e  a quantad de mulheres com a idade abaixo de 20 anos
