@@ -1,0 +1,8 @@
+DICA: usar a separação de variaveis no topo para ter um contrle e visualização melhor delas
+primeira parte do código é simples, somente dar input - para a coleta de dados das pessoas 
+junto disso fazemos o calculo da média das idades 
+proximo if é só para direcionar quem tem a maior idade entre eles, já que foi criada a variavel para o calculo antes dos if
+Nos ifs é usado and e in exatamente para abranger as duas formas de digitar a letra M ou F pelo usúario.
+evitando assim que o cód de erro pela forma digitada
+no ultimo if para separar as mulheres menores que 20 anos, usamos o in e and para identificar as mulheres e ao final é colocado,
+a sinalização de menor que 20
